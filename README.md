@@ -1,1 +1,1 @@
-# 2steps Django project
+# 2steps Django Project
